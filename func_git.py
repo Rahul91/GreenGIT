@@ -15,7 +15,7 @@ from githubpy import github
 from bs4 import BeautifulSoup
 
 
-token = '33aa8aec26d79b1843d50385cdea04093b90570f'  #Github auth token for authorisation
+token = '****************************************'  #Github auth token for authorisation
 
 def extract():
 
